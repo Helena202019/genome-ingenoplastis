@@ -1,0 +1,2 @@
+# genome-ingenoplastis
+protein  sequences
